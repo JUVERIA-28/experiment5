@@ -16,5 +16,5 @@ Run Main class from IDE
 Make sure DB is connected
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project5-java-crud
+🔗 https://github.com/JUVERIA-28/experiment5.git
 
