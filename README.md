@@ -18,3 +18,8 @@ Make sure DB is connected
 GitHub Repo:
 🔗 https://github.com/JUVERIA-28/experiment5.git
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/308e5bdd-0519-4145-a67c-b1c5129ab153)
+
+
